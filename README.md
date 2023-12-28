@@ -1,6 +1,6 @@
 - 👋 Merhaba ben Yusuf Arslan
 - 👀 Web tasarımı ve geliştirmeyle ilgileniyorum
-- 🎓 HTML, CSS, Bootstrap ve Sass biliyorum
+- 🎓 HTML, CSS, Bootstrap ve Sass & Scss biliyorum
 - 🌱 Şu anda JavaScript ve C++ öğreniyorum
 - 💞️ Yaratıcı ve iddialı web projelerinde işbirliği yapmayı arıyorum
-- 📫 Bana e-posta veya GitHub aracılığıyla ulaşabilirsiniz.
+- 📫 Bana e-posta veya Instagram aracılığıyla ulaşabilirsiniz.
